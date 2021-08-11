@@ -11,7 +11,7 @@ function setup() {
   } 
 
 function draw() {
-  background("black");
+  background("white");
 
 }
 function factors(){
